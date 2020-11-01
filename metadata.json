@@ -1,0 +1,7 @@
+{
+    "name": "Rounded Corners",
+    "description": "Creates rounded corners for every monitor",
+    "uuid": "Rounded_Corners@maximeaubaret",
+    "shell-version": ["3.38.1"],
+    "url": "https://github.com/maximeaubaret/gnome-rounded-corners"
+}
